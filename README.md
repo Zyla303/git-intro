@@ -23,6 +23,6 @@ Zadanie 8. `(*)` Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
 ### Numery albumów:
 
-Gabriela Zapała - 134183
-Szymon Żylski - 130352
-Szymon Śledź - 134169
+Gabriela Zapała - 134183  
+Szymon Żylski - 130352  
+Szymon Śledź - 134169  
